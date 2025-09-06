@@ -1,0 +1,5 @@
+{
+  "name": "Google Cloud Skill Boost Lab automator",
+  "description": "A comprehensive web application for tracking Google Cloud Skill Boost course progress with advanced learning analytics, note-taking capabilities, and intelligent study assistance features powered by Gemini.",
+  "requestFramePermissions": []
+}
